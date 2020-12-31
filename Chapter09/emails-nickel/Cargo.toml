@@ -5,6 +5,6 @@ authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
 
 [dependencies]
 failure = "0.1"
-lettre = { git = "https://github.com/lettre/lettre" }
-lettre_email = { git = "https://github.com/lettre/lettre" }
+lettre = "0.9"
+lettre_email = "0.9"
 nickel = "0.10"
